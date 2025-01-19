@@ -1,6 +1,5 @@
 # Jogo da Cobrinha
 
-Este jogo foi inicialmente realizado durante o desafio JavaScript que fiz no Bootcamp Code Like a Full Stack Girl promovido pela [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One").
 
 ### Funcionalidades existentes
 O primeiro commit foi como o projeto foi finalizado no desafio, como na imagem abaixo.
